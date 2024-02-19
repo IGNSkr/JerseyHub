@@ -78,7 +78,7 @@ body {
 /* HERO SECTION */
 .hero_section {
   min-height: 98vh;
-  background-image: url(/Images/HERO_BG.png);
+  background-image: url(Images/HERO_BG.png);
 }
 
 .hero_text_content {
